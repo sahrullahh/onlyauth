@@ -1,6 +1,6 @@
 .DS_Store
-/template-1/node_modules
-/template-2/node_modules
+template-1/*/node_modules
+template-2/*/node_modules
 /dist
 
 

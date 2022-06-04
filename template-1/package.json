@@ -1,0 +1,21 @@
+{
+  "name": "template-1",
+  "version": "1.0.0",
+  "description": "\"Template login/register/forgotpw premium\"",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind": "npx tailwindcss -i ./src/assets/css/tailwind.css -o ./src/dist/css/onlyauth.css --watch"
+  },
+  "keywords": [
+    "\"Template",
+    "login",
+    "onlyauth\""
+  ],
+  "author": "\"Mohammad Sahrullah\"",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.2",
+    "tailwindcss": "^3.0.24"
+  }
+}
